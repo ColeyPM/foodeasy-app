@@ -1,8 +1,8 @@
-#  FoodEasy : Fresh Foodstuff & GROCERY— Cheaper Than the Market! Delivered at your door step.
+#  FoodEasy : Fresh Foodstuff & Grocery — Cheaper Than the Market! Delivered at your door step.
 
 > **Choose a package or shop from our marketplace. Partnering with top farmers & brands to make quality food affordable for all.**
 
-![FoodEasy Banner](https://drive.google.com/file/d/1H50o4IFsIdTs4I4XGwf1q3Mzlc7X6hyZ/view?usp=sharing)
+![FoodEasy Banner](FoodEasy-Banner-image.png)
 
 ##  What is FoodEasy?
 
@@ -85,3 +85,4 @@ Choose from expertly curated packages or build your own:
 6. Enjoy fresh groceries at unbeatable prices!
 
 ---
+
