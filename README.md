@@ -2,7 +2,7 @@
 
 > **Choose a package or shop from our marketplace. Partnering with top farmers & brands to make quality food affordable for all.**
 
-![FoodEasy Banner](FoodEasy-Banner-image.png)
+![FoodEasy Banner](FoodEasy-system-architecture-design.png)
 
 ##  What is FoodEasy?
 
@@ -85,4 +85,5 @@ Choose from expertly curated packages or build your own:
 6. Enjoy fresh groceries at unbeatable prices!
 
 ---
+
 
