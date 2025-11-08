@@ -2,13 +2,14 @@
 
 ## Table of Contents
 1. [Architecture Overview](#architecture-overview)
-2. [Technology Stack](#technology-stack)
-3. [System Components](#system-components)
-4. [Data Models](#data-models)
-5. [API Architecture](#api-architecture)
-6. [Security & Authentication](#security--authentication)
-7. [Deployment Strategy](#deployment-strategy)
-8. [Scalability Considerations](#scalability-considerations)
+2. [System Architecture Diagram](#system-architecture-diagram)
+3. [Technology Stack](#technology-stack)
+4. [System Components](#system-components)
+5. [Data Models](#data-models)
+6. [API Architecture](#api-architecture)
+7. [Security & Authentication](#security--authentication)
+8. [Deployment Strategy](#deployment-strategy)
+9. [Scalability Considerations](#scalability-considerations)
 
 ---
 
@@ -32,6 +33,8 @@ FoodEasy follows a **modern 3-tier architecture** with clear separation of conce
 │              (MongoDB + Redis Cache)                     │
 └──────────────────────────────────────────────────────────┘
 ```
+## System Architecture Diagram
+![System Architecture Diagram](https://image2url.com/images/1762635790848-6b19d0c9-33a4-4876-b6d1-45e2325fa199.png)
 
 ### Design Principles
 - **Mobile-First**: Optimized for 80% of our target users on smartphones
