@@ -1,10 +1,26 @@
-#  FoodEasy : Fresh Foodstuff & Grocery — Cheaper Than the Market! Delivered at your door step.
+#  FoodEasy : Fresh Foodstuff & GROCERY— Cheaper Than the Market! Delivered at your door step.
 
 > **Choose a package or shop from our marketplace. Partnering with top farmers & brands to make quality food affordable for all.**
 
-![FoodEasy Banner](FoodEasy-Banner-image.png)
 
-##  What is FoodEasy?
+## Table of Contents
+- [About FoodEasy](#about-foodeasy)
+- [Why FoodEasy Matters](#why-foodeasy-matters)
+  - [The Problem](#the-problem)
+  - [Our Solution](#our-solution)
+- [Who It's For (Target Audience)](#who-its-fortarget-audience)
+  - [Primary Users](#primary-users)
+  - [Secondary Users](#secondary-users)
+- [Wireframe UI](#wireframe-ui)  
+- [Key Features](#key-features)
+  - [Smart Package Options](#smart-package-options)
+  - [Seamless Experience](#seamless-experience)
+  - [Trust & Transparency](#trust--transparency)
+- [Technology Stack](#technology-stack)
+- [Getting Started](#getting-started)
+
+
+##  About FoodEasy
 
 FoodEasy is a **mobile-first grocery delivery platform** that brings fresh, high-quality foodstuffs and groceries to your doorstep at prices **cheaper than local markets**. 
 
@@ -29,7 +45,7 @@ FoodEasy delivers **pre-curated food packages** designed for different household
 
 ---
 
-##  Who It's For
+##  Who It's For(Target Audience)
 
 ### Primary Users
 - **Working Professionals (25-44 years)** - Save time on grocery shopping
@@ -41,6 +57,12 @@ FoodEasy delivers **pre-curated food packages** designed for different household
 - **Small Businesses** - Consistent supply for restaurants and caterers
 
 ---
+
+##  Wireframes
+![Wireframe UI](https://image2url.com/images/1762631932547-78b289da-3206-4cab-b2b0-9a726124b439.png)
+![Wireframe UI](https://image2url.com/images/1762632147546-ff1dc4ae-243b-4784-a3be-561ef724c882.jpg)
+![Wireframe UI](https://image2url.com/images/1762632845642-039f8843-d850-4b12-a545-1135095d58b0.png)
+![Wireframe UI](https://image2url.com/images/1762633035153-017f7f40-f92f-4251-b092-f31bcbd20f96.png)
 
 ##  Key Features
 
@@ -75,14 +97,9 @@ Choose from expertly curated packages or build your own:
 
 ---
 
-##  Getting Started 
+##  Prototype
 
-1. Visit [foodeasy.app](https://foodeasy.app) *(coming soon)*
-2. Sign up with your phone number and delivery address
-3. Browse our curated packages
-4. Select your package and checkout
-5. Track your delivery in real-time
-6. Enjoy fresh groceries at unbeatable prices!
+[View prototype](https://www.figma.com/design/rLUtd0KX06i5ctVkDF8UTC/HNG-Stage-3A-Task---Coletta-Ezeagba?node-id=0-1&t=40auHp496DV9p9wj-1) 
+
 
 ---
-
