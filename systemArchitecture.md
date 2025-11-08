@@ -512,9 +512,9 @@ FoodEasy's architecture is designed for **rapid MVP launch** with a clear path t
 
 ---
 Document Version: 1.0
----
+--
 Last Updated: November 8 2025
----
+--
 Author:Coletta Ezeagba
 
 ---
